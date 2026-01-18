@@ -1,16 +1,16 @@
 # data-warehouse-tp
 TPs and Project - Data Warehousing-Aymane EL MKADMI
 
-Rapports de Travaux Pratiques – Système d'information d'aide à la décision et informatique décisionnelle
+# Rapports de Travaux Pratiques – Système d'information d'aide à la décision et informatique décisionnelle
 
 Ce dépôt regroupe l’ensemble des rapports réalisés dans le cadre du module Système d'information d'aide à la décision et informatique décisionnelle, au sein de notre formation.
 Ces travaux mettent en œuvre des compétences en modélisation de données, architectures analytiques, intégration et automatisation de flux, ainsi qu’en restitution décisionnelle.
 
-👤 Membre
+# Membre
 
 Aymane EL MKADMI
 
-📂 Liste des rapports déposés
+# Liste des rapports déposés
 
 TP1_Pentaho_Aymane.pdf
 Installation et prise en main de l’outil Pentaho Data Integration.
@@ -30,7 +30,7 @@ TP5_Architecture_Lakehouse_Moderne_Aymane.pdf
 PROJET DE FIN DE SEMESTRE – Aymane ELMKADMI.pdf
 Réalisation d’un projet complet intégrant pipeline de données, Data Warehouse et reporting décisionnel.
 
-🛠 Technologies utilisées
+# Technologies utilisées
 
 Pentaho Data Integration (PDI)
 
@@ -42,6 +42,6 @@ PostgreSQL / MySQL
 
 Snowflake / Cloud Data Platforms
 
-🤝 Modalités de travail
+# Modalités de travail
 
 L’ensemble des travaux a été réalisé individuellement dans le cadre académique, avec une attention particulière portée à l’analyse, la conception des architectures décisionnelles et la qualité de la restitution des résultats.
