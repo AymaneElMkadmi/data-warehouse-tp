@@ -27,6 +27,8 @@ Modélisation et mise en œuvre d’un Data Warehouse moderne adapté aux besoin
 TP5_Architecture_Lakehouse_Moderne_Aymane.pdf
 Étude et implémentation de l’architecture Lakehouse moderne pour l’analytique avancée.
 
+TP6_Pipeline_OLTP_ETL_DWH_PowerBI_Aymane
+
 PROJET DE FIN DE SEMESTRE – Aymane ELMKADMI.pdf
 Réalisation d’un projet complet intégrant pipeline de données, Data Warehouse et reporting décisionnel.
 
